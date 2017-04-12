@@ -8,6 +8,8 @@ namespace TeamPowered
 {
     class Role
     {
-        public string Name { get; set; }
+        public string Namess { get; set; }
+
+        public int ID { get; set; }
     }
 }
